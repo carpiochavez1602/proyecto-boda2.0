@@ -1,0 +1,12 @@
+# Ignorar directorios de configuración de Visual Studio
+.vs/
+
+# Ignorar archivos binarios generados
+*.exe
+*.o
+*.a
+*.log
+
+# Ignorar archivos de configuración de la IDE (si usas Code::Blocks o similar)
+*.cbp
+*.layout
